@@ -14,7 +14,7 @@ tags:
   - Motivation for Students
 ---
 <center>
-<img src="/img/karate-kid.jpg" alt="Daniel LaRusso training with Mr. Miyagi">
+<img src="https://miro.medium.com/max/493/0*Dxltjo64vzqVL8bZ.jpg">
 </center>
 
 For those of you who don't know ***The Karate Kid*** is a 1984 American martial arts drama film written by **Robert Mark Kamen** and directed by John G. Avildsen. The movie follows Daniel LaRusso, a teenager taught karate by Mr. Miyagi to help defend himself and compete in a tournament against his bullies.
