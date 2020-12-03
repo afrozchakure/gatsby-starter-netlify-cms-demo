@@ -1,33 +1,52 @@
 ---
 templateKey: blog-post
-title: Making sense of the SCAA’s new Flavor Wheel
-date: 2016-12-17T15:04:10.000Z
-featuredpost: false
-featuredimage: /img/flavor_wheel.jpg
-description: The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.
+title: Leadership Lessons from ‘The Karate Kid (1984)’
+date: 2020-12-03T18:46:35.362Z
+description: Lessons from the 1980's classic that teach us the importance of
+  obeying your mentor.
+featuredpost: true
+featuredimage: /img/karate-kid.jpg
 tags:
-  - flavor
-  - tasting
+  - Teacher
+  - Student
+  - Motivation
+  - The Karate Kid
+  - Motivation for Students
 ---
-![flavor wheel](/img/flavor_wheel.jpg)
+![](https://cdn-images-1.medium.com/max/716/0*Dxltjo64vzqVL8bZ.jpg)
 
-The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
+For those of you who don't know ***The Karate Kid*** is a 1984 American martial arts drama film written by **Robert Mark Kamen** and directed by John G. Avildsen.The movie follows Daniel LaRusso, a teenager taught karate by Mr. Miyagi to help defend himself and compete in a tournament against his bullies.
 
-While this is going to be a big change for professional coffee tasters, it means a lot to you as a consumer as well. We’ll explain how the wheel came to be, how pros use it and what the flavors actually mean.
+In this blog, I'll try to review a few scenes from the movie to point out 3 important lessons that one can learn from the movie.
 
-## What the updates mean to you
+### Lesson 1: Wax On Wax Off
 
-The Specialty Coffee Association of America (SCAA), founded in 1982, is a non-profit trade organization for the specialty coffee industry. With members located in more than 40 countries, SCAA represents every segment of the specialty coffee industry, including:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SMCsXl9SGgY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-* producers
-* roasters
-* importers/exporters
-* retailers
-* manufacturers
-* baristas
+The first clip, **‘Wax on, Wax off’ —** starts off with an important line by Mr. Miyagi — **“Walk on road. Walk right side, safe. Walk left side, safe. Walk middle, sooner or later, you get squished just like grape”.** He says that the same thing applies to Karate, either you do karate or you don’t, in both situations you know what you want to do. But if you approach karate (any learning endeavor for that matter) with a confused mindset then whatever learning you gain will not bear you any fruit.
 
-For over 30 years, SCAA has been dedicated to creating a vibrant specialty coffee community by recognizing, developing and promoting specialty coffee. SCAA sets and maintains quality standards for the industry, conducts market research, and provides education, training, resources, and business services for its members.
+### Lesson 2: Sand the Floor
 
-Coffee cupping, or coffee tasting, is the practice of observing the tastes and aromas of brewed coffee. It is a professional practice but can be done informally by anyone or by professionals known as "Q Graders". A standard coffee cupping procedure involves deeply sniffing the coffee, then loudly slurping the coffee so it spreads to the back of the tongue.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/__qOY9hcm64" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-The coffee taster attempts to measure aspects of the coffee's taste, specifically the body (the texture or mouthfeel, such as oiliness), sweetness, acidity (a sharp and tangy feeling, like when biting into an orange), flavour (the characters in the cup), and aftertaste. Since coffee beans embody telltale flavours from the region where they were grown, cuppers may attempt to identify the coffee's origin.
+The other two clips, **‘Sand the Floor’** and **‘Paint the Fence’** are quite comical and quite intuitive. Here Mr. Miyagi asks Daniel to sand the wooden floor and paint the fence in a particular way — ***“Left the circle, Right the circle”** and **“Up And Down”*** respectively. Daniel initially has doubts about it but he follows his master’s orders and does the job without any questions. Both jobs are hard for him and it’s difficult to see how doing these jobs will help him in learning karate, but being a good student he does them nonetheless.
+
+### Lesson 3: Paint the Fence
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/R37pbIySnjg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+In the last clip, **‘Paint the House’**, Daniel is asked to paint Mr.Miyagi’s house which he does but after awhile loses his cool on seeing Mr. Miyagi go fishing while he paints his house. Seeing his student angry and losing control, Mr. Miyagi shows Daniel how these tasks like Waxing the car, Sanding the floor, Painting the fence and the house was all part of his training. They were all ways to teach Daniel how to defend himself when attacked and by doing these tasks repeatedly they had become part of his muscle memory.
+
+### Lesson 4: Paint the house and Conclusion. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9dZGWSRsvn8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+The Movie teaches us a very important lesson,
+
+> ***You got to have trust and faith in your teacher**.*
+
+Sometimes, while training or learning something new, you might feel that some of the things that you are being told to do by your teacher don’t make sense or you may not see any immediate results. In such a situation you must never lose faith and must continue doing what your teacher says. Seeking advice, asking for help, and following orders are important key characteristics of a good student.
+
+Always Remember,
+
+> **‘Persistence and Hard work are key for learning anything in life’**
