@@ -37,7 +37,9 @@ And in 1997, **Tom Mitchell** gave a "well-posed" mathematical and relational de
 2. Unsupervised Learning.
 3. Reinforcement Learning.
 
-<figure><img src="https://cdn-images-1.medium.com/max/716/0*6XH7CItChCzxpCCV.png"><figcaption>Fig. 2 - Unsupervised Learning</figcaption></figure>
+<figure>
+
+<center><img src="https://cdn-images-1.medium.com/max/716/0*6XH7CItChCzxpCCV.png"><figcaption>Fig. 2 - Unsupervised Learning</figcaption></center></figure>
 
 ### 1. **Supervised Learning** :
 
@@ -61,7 +63,7 @@ For example : Given a picture of a person, we have to predict the age on the ba
 
 For example : Given data about the sizes of houses in the real estate market, making our output about whether the house "sells for **more** or **less** than the asking price" i.e. Classifying houses into two discrete categories.
 
-<figure><img src="https://cdn-images-1.medium.com/max/716/0*GmRqgfGBUYtZG4Ah"><figcaption>Fig. 3 - Unsupervised Learning</figcaption></figure>
+<figure><center><img src="https://cdn-images-1.medium.com/max/716/0*GmRqgfGBUYtZG4Ah"><figcaption>Fig. 3 - Unsupervised Learning</figcaption></center></figure>
 
 ### 2. **Unsupervised Learning** :
 
@@ -77,15 +79,15 @@ We can derive this structure by **clustering** the data based on relationships a
 
 For example : Take a collection of 1,000,000 different genes, and find a way to automatically group these genes into **groups that are somehow similar** or related by different variables, such as lifespan, location, roles, and so on.
 
-<figure><img src="https://cdn-images-1.medium.com/max/716/0*bfIC5rSQbBS1zb7p.jpeg"><figcaption>Fig. 4 - Unsupervised Learning</figcaption></figure>
+<figure><center><img src="https://cdn-images-1.medium.com/max/716/0*bfIC5rSQbBS1zb7p.jpeg"><figcaption>Fig. 4 - Unsupervised Learning</figcaption></center></figure>
 
 ### **3. Reinforcement Learning** :
 
 Reinforcement Learning is about taking suitable actions to **maximize reward** in a particular situation. It is employed by various software and machines to find the **best possible behavior** or path to take in a specific situation.
 
-<figure><img src="https://cdn-images-1.medium.com/max/716/0*Z98STO3Q0nN_kZDv" width="60%">
+<figure><center><img src="https://cdn-images-1.medium.com/max/716/0*Z98STO3Q0nN_kZDv" width="60%">
 <figcaption>Fig. 5 - Reinforcement Learning</figcaption>
-</figure>
+</center></figure>
 
 Reinforcement learning differs from the supervised learning in a way that in supervised learning the training data has the answer key with it, so the model is trained with the correct answer itself whereas in reinforcement learning, **there is no answer** and the **reinforcement agent** decides what to do in order to perform the given task. In the absence of training data set, it is bound to **learn from its experience.**
 
@@ -102,6 +104,6 @@ Reinforcement learning differs from the supervised learning in a way that in sup
 9. Online Fraud Detection.
 
 <figure>
-<center><img src="https://cdn-images-1.medium.com/max/716/0*lHej2nL14PBUCIel.jpeg" width="100%"></center>
+<center><center><img src="https://cdn-images-1.medium.com/max/716/0*lHej2nL14PBUCIel.jpeg" width="100%"></center>
 <figcaption>Fig. 6 - Some Applications of Machine Learning</figcaption>
-</figure>
+</center></figure>
