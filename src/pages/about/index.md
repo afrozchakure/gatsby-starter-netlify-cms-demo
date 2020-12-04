@@ -1,19 +1,20 @@
 ---
-templateKey: 'about-page'
+templateKey: about-page
 path: /about
-title: About our values
+title: About the Author
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+Hey, thanks for reading this far. My name is Afroz Chakure and I'm a final year student currently pursuing B.Tech in Computer Science and engineering at MIT-WPU, Pune. 
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+Other than that I'm a Passionate Blogger with love for AI and Machine Learning. When I'm not coding you can find me reading books and just surfing the internet :D
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+# About this Site
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+This is one of my Personal blogs where I share my love for latest technologies with others by trying to explain complicated things in simple words.
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+> “What started off as a hobby has turned into passion”.
+
+I believe technology is there to make our lives easier and better. With the help of technologies like A.I. (Artificial Intelligence) , V.R. (Virtual Reality) and Quantum Computing, I feel humans will be able to solve some of mankind’s most difficult problems.
+
+With every new technology comes newer problems and as humans it is our responsibility to find solutions to those problems while keeping our ethical values and beliefs intact.
+
+Most of these blogs are on Machine Learning, where I have tried to simplify some of the most commonly used ML Algorithms. Any constructive feedback is much appreciated.
