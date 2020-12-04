@@ -9,8 +9,12 @@ description: Machine Learning has really been the buzz in software industry for
 featuredpost: true
 featuredimage: /img/traditionvsml.png
 tags:
-  - brewing
-  - chemex
+  - Machine Learning
+  - Supervised Learning
+  - Reinforcement Learning
+  - Unsupervised Learning
+  - Artificial Intelligence
+  - Data Science
 ---
 ### What is Machine Learning?
 
