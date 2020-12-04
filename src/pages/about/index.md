@@ -3,9 +3,13 @@ templateKey: about-page
 path: /about
 title: About the Author
 ---
-Hey, thanks for reading this far. My name is Afroz Chakure and I'm a final year student currently pursuing B.Tech in Computer Science and engineering at MIT-WPU, Pune. 
+Hey, Thanks for reading this far.
+
+My name is Afroz Chakure and I'm a final year student currently pursuing B.Tech in Computer Science and engineering at MIT-WPU, Pune. 
 
 Other than that I'm a Passionate Blogger with love for AI and Machine Learning. When I'm not coding you can find me reading books and just surfing the internet :D
+
+<center><img src="https://hardtasksin.files.wordpress.com/2017/11/stairs-lights-abstract-bubbles1.jpg?w=816" width="100%"></center>
 
 # About this Site
 
